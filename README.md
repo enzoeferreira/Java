@@ -14,6 +14,16 @@
  */
 ```
 
+## <b>Operadores condicionais e comandos de repetição</b>
+
+### <b>if</b>
+
+#### <b>Ternário</b>
+
+```java
+condição ? verdadeiro : falso;
+```
+
 # <b>Bibliotecas</b>
 
 # <b>Funções</b>
