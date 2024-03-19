@@ -14,6 +14,24 @@
  */
 ```
 
+## <b>Esqueleto Padrão</b>
+arquivo "NomeDaClasse.java"
+```java
+public class NomeDaClasse{  
+    // Início da classe
+}
+```
+
+arquivo "Main.java" (executável)
+```java
+public class Main{
+    public static void main(String[] args) {
+        // Método main (que será executado)
+    }
+    // Classe Main
+}
+```
+
 ## <b>Classes</b>
 
 ### <b>System</b>
