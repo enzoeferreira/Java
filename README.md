@@ -49,7 +49,7 @@ System.out.prinln("Olá mundo!")
 
 ## <b>Operadores condicionais e comandos de repetição</b>
 
-### <b>if</b>
+### <b>if()</b>
 ```java
 if(condição) {
     // Bloco 1
@@ -64,6 +64,21 @@ if(condição) {
 
 ```java
 condição ? verdadeiro : falso;
+```
+
+### <b>switch()</b>
+```java
+switch(expressão) {
+    case caso1:
+    
+    case caso2:
+
+    ...
+
+    case casoN:
+
+    default:
+}
 ```
 
 ## <b>Modificadores</b>
