@@ -15,14 +15,17 @@
 ```
 
 ## <b>Esqueleto Padrão</b>
+
 arquivo "NomeDaClasse.java"
+
 ```java
-public class NomeDaClasse{  
+public class NomeDaClasse{
     // Início da classe
 }
 ```
 
 arquivo "Main.java" (executável)
+
 ```java
 public class Main{
     public static void main(String[] args) {
@@ -36,7 +39,13 @@ public class Main{
 
 ### <b>System</b>
 
-#### <b>Objeto .out</b>
+#### <b>.out</b>
+
+##### <b>.println</b>
+Imprime uma cadeia de caracteres
+```java
+System.out.prinln("Olá mundo!")
+```
 
 ## <b>Operadores condicionais e comandos de repetição</b>
 
@@ -51,10 +60,10 @@ condição ? verdadeiro : falso;
 ## <b>Modificadores</b>
 
 Modificador | Classe | Pacote | Sublasse | Mundo
-public      |   S    |   S    |    S     |   S
-protected   |   S    |   S    |    S     |   N
-default     |   S    |   S    |    N     |   N
-private     |   S    |   N    |    N     |   N
+public | S | S | S | S
+protected | S | S | S | N
+default | S | S | N | N
+private | S | N | N | N
 
 # <b>Bibliotecas</b>
 
