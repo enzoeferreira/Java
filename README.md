@@ -50,6 +50,15 @@ System.out.prinln("Olá mundo!")
 ## <b>Operadores condicionais e comandos de repetição</b>
 
 ### <b>if</b>
+```java
+if(condição) {
+    // Bloco 1
+} else if (condição2) {
+    // Bloco 2
+} else {
+    // Bloco 3
+}
+```
 
 #### <b>Ternário</b>
 
