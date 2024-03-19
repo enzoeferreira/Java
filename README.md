@@ -1,3 +1,25 @@
+- [Estudos em Java](#estudos-em-java)
+- [Syntax](#syntax)
+  - [Comentários](#comentários)
+  - [Esqueleto Padrão](#esqueleto-padrão)
+  - [Operadores](#operadores)
+    - [Aritméticos](#aritméticos)
+    - [Lógicos e relacionais](#lógicos-e-relacionais)
+  - [Classes](#classes)
+    - [System](#system)
+      - [.out](#out)
+        - [.println](#println)
+  - [Operadores condicionais e comandos de repetição](#operadores-condicionais-e-comandos-de-repetição)
+    - [if()](#if)
+      - [Ternário](#ternário)
+    - [while()](#while)
+      - [do-while](#do-while)
+    - [for()](#for)
+    - [switch()](#switch)
+  - [Modificadores](#modificadores)
+- [Bibliotecas](#bibliotecas)
+- [Funções](#funções)
+
 # <b>Estudos em Java</b>
 
 # <b>Syntax</b>
