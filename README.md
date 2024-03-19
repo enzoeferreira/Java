@@ -80,6 +80,18 @@ do {
 } while(condição)
 ```
 
+### <b>for()</b>
+```java
+for(expressão1; expressão2; expressão3) {
+    
+}
+/*
+ * expressão1: Uma expressão ou qualquer comando ou chamada de função. Normalmente uma atribuição
+ * expressão2: Qualquer comando ou chamada de função
+ * expressão3: Uma expressão ou qualquer comando ou chamada de função
+ */
+```
+
 ### <b>switch()</b>
 ```java
 switch(expressão) {
