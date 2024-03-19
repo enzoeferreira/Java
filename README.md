@@ -35,6 +35,40 @@ public class Main{
 }
 ```
 
+## <b>Operadores</b>
+
+### <b>Aritméticos</b>
+| **Operador** |  **Uso** | **Descrição**                         |
+|--------------|:--------:|---------------------------------------|
+|       +      |   a + b  | Adição                                |
+|       -      |   a - b  | Subtração                             |
+|       -      |    -a    | Negação                               |
+|       *      |   a * b  | Multiplicação                         |
+|       /      |   a / b  | Divisão                               |
+|       %      |   a % b  | Mod (resto)                           |
+|      ++      |    a++   | Incrementa 1                          |
+|      ++      |    ++a   | Incrementa 1 (usa valor incrementado) |
+|      --      |    a--   | Decrementa 1                          |
+|      --      |    --a   | Decrementa 1 (usa valor decrementado) |
+|     (*)=     | a (*)= b | a = a (*) b                           |
+
+### <b>Lógicos e relacionais</b>
+| **Operador** |  **Uso** | **Retorna TRUE se:**       |
+|:------------:|:--------:|----------------------------|
+|       >      |   a > b  | a maior que b              |
+|      >=      |  a >= b  | a maior ou igual a b       |
+|       <      |   a < b  | a menor que b              |
+|      <=      |  a <= b  | a menor ou igual a b       |
+|      ==      |  a == b  | a igual a b                |
+|      !=      |   a !=   | a diferente de b           |
+|              |          |                            |
+|      &&      |  a && b  | a E b são TRUE (AND)       |
+|     \|\|     | a \|\| b | a OU b são TRUE (OR)       |
+|       !      |    !a    | a é FALSE (NOT)            |
+|   & (Bool)   |   a & b  | a E b são TRUE (avalia b)  |
+|   \| (Bool)  |  a \| b  | a OU b são TRUE (avalia b) |
+|   ^ (Bool)   |   a ^ b  | a e b são diferentes       |
+
 ## <b>Classes</b>
 
 ### <b>System</b>
