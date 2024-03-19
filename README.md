@@ -66,6 +66,20 @@ if(condição) {
 condição ? verdadeiro : falso;
 ```
 
+### <b>while()</b>
+```java
+while(condição) {
+    // Bloco
+}
+```
+
+#### <b>do-while</b>
+```java
+do {
+    // Bloco
+} while(condição)
+```
+
 ### <b>switch()</b>
 ```java
 switch(expressão) {
