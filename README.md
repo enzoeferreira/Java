@@ -165,11 +165,12 @@ switch(expressão) {
 
 ## <b>Modificadores</b>
 
-Modificador | Classe | Pacote | Sublasse | Mundo
-public | S | S | S | S
-protected | S | S | S | N
-default | S | S | N | N
-private | S | N | N | N
+| **Modificador** | **Classe** | **Pacote** | **Sublasse** | **Mundo** |
+|-----------------|:----------:|:----------:|:------------:|:---------:|
+| public          |      S     |      S     |       S      |     S     |
+| protected       |      S     |      S     |       S      |     N     |
+| default         |      S     |      S     |       N      |     N     |
+| private         |      S     |      N     |       N      |     N     |
 
 # <b>Bibliotecas</b>
 
